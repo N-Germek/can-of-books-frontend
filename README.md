@@ -1,6 +1,60 @@
-# Start your own "Can of Books" App
+# Can Of Books
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author**: Natalija Germek
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+
+## Overview
+
+The purpose of this repo is to identify books on my bookshelf that I would recommend to be added to anyone's library for their entertainment or educational purposes.
+
+## Getting Started
+
+> [Professional Pairing Process Team Commitment](https://docs.google.com/document/d/15Af29g3gff3jWA2Yl0nopn2uPO59OhwrVcDkxvl2714/edit)
+
+## Architecture
+
+Technologied Used have been: Microsoft Word, React, Local Host, GitHub.
+
+<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+## Change Log
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+Name of feature: Set up your repositories.
+
+Estimate of time needed to complete: 40 minutes (20 minutes per Repo)
+
+Start time: 7:59pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+Name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+Name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+## Credit and Collaborations
+
+Martha Quintanilla-Ramirez and Vida Powell
 
 ## What can books do?
 
