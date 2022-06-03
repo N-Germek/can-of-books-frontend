@@ -28,29 +28,29 @@ Estimate of time needed to complete: 40 minutes (20 minutes per Repo)
 
 Start time: 7:59pm
 
-Finish time: _____
+Finish time: 8:40pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 minutes
 
-Name of feature: ________________________________
+Name of feature: Storage
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hour
 
-Start time: _____
+Start time: 8:40pm
 
-Finish time: _____
+Finish time: 9:30pm next day to fix a bug
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3 and a half hours.
 
-Name of feature: ________________________________
+Name of feature: Book Component
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 9:30pm
 
-Finish time: _____
+Finish time: 10:10pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 minutes
 
 ## Credit and Collaborations
 

@@ -1,0 +1,22 @@
+#carousel {
+    max-height: 800px;
+    margin: 3%
+}
+
+#carousel-image {
+    max-height: 800px;
+    opacity: .80;
+}
+
+#carousel-text-box {
+    background-color:rgb(200, 91, 91);
+    opacity: .75;
+    padding: 5%;
+    margin-bottom: 3%;
+    border: 2px solid black;
+}
+
+.carousel-text {
+    color: black;
+    font-weight: bold;
+}
