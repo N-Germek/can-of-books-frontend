@@ -2,6 +2,8 @@ import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import Image from 'react-bootstrap/Image';
 import bookImg from './libraryImage.jpg';
+import axios from 'axios';
+import { Container } from 'react-bootstrap';
 
 class BestBooks extends React.Component {
   constructor(props) {
@@ -40,28 +42,30 @@ class BestBooks extends React.Component {
     return (
       <>
         <h2>My Essential Lifelong Learning &amp; Formation Shelf</h2>
+        <Container>
 
-        {this.state.books.length ? (
-          <Carousel>
-            {this.state.books.map(book => (   
-              <Carousel.Item>
-            <Image
-              className="w-100"
-              src={bookImg}
-              alt={book.title}
-              />
-            <Carousel.Caption>
-              <h2>First slide label</h2>
-              <p className="carousel-text">{book.title}</p>
-              <p className="carousel-text">{book.description}</p>
-              <p className="carousel-text">Status: {book.status}</p>
-            </Carousel.Caption>
-          </Carousel.Item>
+          {this.state.books.length ? (
+            <Carousel id="carousel">
+              {this.state.books.map(book => (
+                <Carousel.Item key={book.title}>
+                  <Image id="carousel-image"
+                    className="w-100"
+                    src={bookImg}
+                    alt={book.title}
+                  />
+                  <Carousel.Caption id="carousel-text-box">
+                    <h2>Library Carousel</h2>
+                    <p className="carousel-text">{book.title}</p>
+                    <p className="carousel-text">{book.description}</p>
+                    <p className="carousel-text">Status: {book.status}</p>
+                  </Carousel.Caption>
+                </Carousel.Item>
               ))}
-          </Carousel>
-        ) : (
-          <h3>No Books Found :(</h3>
-        )}
+            </Carousel>
+          ) : (
+            <h3>No Books Found :(</h3>
+          )}
+        </Container>
       </>
     )
   }
