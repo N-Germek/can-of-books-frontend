@@ -50,7 +50,7 @@ Start time: 9:30pm
 
 Finish time: 10:10pm
 
-Actual time needed to complete: 40 minutes
+Actual time needed to complete: 40 minutes plus time to troubleshoot Heroku Deployment
 
 ## Credit and Collaborations
 
