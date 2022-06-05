@@ -13,14 +13,14 @@ The purpose of this repo is to identify books on my bookshelf that I would recom
 
 ## Architecture
 
-Technologied Used have been: Microsoft Word, React, Local Host, GitHub.
+Technologies Used have been: Microsoft Word, React, Local Host, GitHub, Netlify, Heroku, Express Server, Node.js, Mongo, Axios. Languages Used have been JavaSCcript and JSQ.
 
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+06-04-2022 at 5:40pm, our team was able to decide who's repo to use as primary after all repos were tested to run properly.
+
+06/04/2022 at 5:41pm starting lab 12 through pair programming/mob programing. Driver is Martha, Navitors will be Vida and Natalija.
 
 Name of feature: Set up your repositories.
 
